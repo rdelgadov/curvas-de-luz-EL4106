@@ -1,0 +1,4 @@
+Los datos parseados son:
+
+- EB/EC
+
