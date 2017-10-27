@@ -1,4 +1,5 @@
 Los datos parseados son:
 
 - EB/EC
-
+- EB/ELL_EC
+- CEPH/1O_20
