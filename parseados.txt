@@ -4,3 +4,5 @@ Los datos parseados son:
 - EB/ELL_EC
 - CEPH/1O_20
 - CEPH/F
+- EB/ED_ESD
+- CEPH/F_10
